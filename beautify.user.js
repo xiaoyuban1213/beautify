@@ -7,8 +7,8 @@
 // @match        http*://app.rainyun.com/*
 // @icon         https://www.rainyun.com/favicon.ico
 // @grant        none
-// @updateURL    https://github.com/xiaoyuban1213/beautifyraw/main/beautify.user.js
-// @downloadURL  https://github.com/xiaoyuban1213/beautifyraw/main/beautify.user.js
+// @updateURL    https://github.com/xiaoyuban1213/beautify/raw/main/beautify.user.js
+// @downloadURL  https://github.com/xiaoyuban1213/beautify/raw/main/beautify.user.js
 // @require      https://cdn.bootcdn.net/ajax/libs/jquery/2.2.4/jquery.min.js
 // ==/UserScript==
 
